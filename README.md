@@ -20,7 +20,7 @@
 
 ---
 
-### 🧰 Teknoloji Yığını
+### 🧰 Teknolojiler
 
 **Diller & Frameworkler**
 <p>
