@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">👋 Merhaba, Ben Ahmet Tokgöz</h1>
+<h1 align="center">👋 Merhaba, Yusuf Ben Ahmet Tokgöz</h1>
 <p align="center">
   <b>.NET Developer</b> • C# • ASP.NET Core • Entity Framework Core • SQL Server
 </p>
