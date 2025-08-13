@@ -13,8 +13,10 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=500&duration=3000&color=228B22&color2=1E90FF&background=FFFFFF00
+<<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=500&duration=3000&color=228B22&color2=1E90FF&background=FFFFFF00&lines=Backend+Web+Developer;.NET+%26+C%23+Developer" alt="Typing SVG" />
+</p>
+
 
 
 
