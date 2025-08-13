@@ -13,7 +13,7 @@
 
 ### 💡 Hakkımda
 - 🎯 **.NET** teknolojileriyle backend web uygulamaları geliştiriyorum.  
-- 🧩 **OOP, SOLID** prensiplerini projelerimde uyguluyorum.
+- 🧩 **SOLID** prensiplerini projelerimde uyguluyorum.
 - 🗃️ **N-Katmanlı Mimari**, **Repository Pattern**, **AutoMapper**, **Fluent Validation** konularında deneyimliyim.  
 - 🧪 **RESTful API** tasarımı, **JWT ile kimlik doğrulama** ve **LINQ** konularında deneyimliyim.  
 - 📚 Sürekli öğrenmeye ve öğrendiklerimi paylaşmaya önem veriyorum.
