@@ -14,8 +14,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Web+Developer" alt="Typing SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&center=true&vCenter=true&width=500&duration=3000&color=00FF00&background=FFFFFF00&vCenter=true&multiline=false&lines=Backend+Web+Developer&color=00FF00&color2=00BFFF" alt="Typing SVG" />
+
 
 ### 💡 Hakkımda
 - 🎯 **.NET** teknolojileriyle backend web uygulamaları geliştiriyorum.  
